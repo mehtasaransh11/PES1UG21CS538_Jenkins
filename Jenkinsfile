@@ -5,7 +5,7 @@ pipeline {
 //              steps {
 //                  checkout ([Sclass: 'GitSCM',
 //                    branches: [[name:*/main']],
-//                    userRemoteConfigs: [[url: 'https://github.com/Jatinsharma159/Jenkins.git']]])
+//                    userRemoteConfigs: [[url: 'https://github.com/mehtasaransh11/PES1UG21CS538_Jenkins/']]])
 //              }
 //          }
           stage('Build') {
